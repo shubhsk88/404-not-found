@@ -1,0 +1,14 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+}
+
+html {
+  font-size: 66.7%;
+}
+
+body {
+  font-size: 1.4rem;
+  font-family: 'Space Mono', monospace;
+}
